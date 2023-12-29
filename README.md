@@ -17,5 +17,5 @@ Course Topics:
   visualizations and narrative text
 
 Key Assignments/Projects:
-- Midterm Project:
-- Final Project:
+- 11800 Midterm Project: Patterns in Chicago School Districts
+- 11900 Midterm Project: Rate My Professor Analysis
